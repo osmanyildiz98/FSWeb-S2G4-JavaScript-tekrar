@@ -153,8 +153,6 @@ for (let i = 0; i < sayilar.length; i++) {
     `${sayilar[i]} sayısı ${tekrar[sayilar[i]]} kere tekrar edilmiştir`
   );
 }
-
-console.log(tekrarEdenSayilar);
 //"{sayı} sayısı {tekrarSayisi} kere tekrar edilmiştir"
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
